@@ -1,0 +1,4 @@
+### 2026-09-17 02:04:34.278
+exit
+### 2026-09-17 02:17:38.667
+CREATE TABLE t_basic(id int, age int, name char(10), score float);
